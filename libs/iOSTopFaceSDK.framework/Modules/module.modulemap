@@ -1,0 +1,6 @@
+framework module iOSTopFaceSDK {
+  umbrella header "iOSTopFaceSDK.h"
+
+  export *
+  module * { export * }
+}
