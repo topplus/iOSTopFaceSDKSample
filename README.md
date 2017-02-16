@@ -1,5 +1,5 @@
 # iOSTopFaceSDKSample
-topFaceSDK iOS版本 示例工程
+TopFaceSDK iOS版本 示例工程
 <br>
 [官网](http://www.voome.cn)
 <br>
