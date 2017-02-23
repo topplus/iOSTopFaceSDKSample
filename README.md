@@ -3,6 +3,14 @@ TopFaceSDK iOS版本 示例工程
 <br>
 [官网](http://www.voome.cn)
 <br>
+##开发环境说明
+<br>
+Xcode7.0及以上版本
+<br>
+##支持平台说明
+<br>
+支持iOS7.0及以上系统
+<br>
 ##接入流程
 ###依赖库导入
 <br>
