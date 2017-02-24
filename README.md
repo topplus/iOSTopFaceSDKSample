@@ -41,11 +41,11 @@ Xcode7.0及以上版本
 ```
 <br>
 ##68个人脸特征点二维像素坐标图
-![](https://github.com/topplus/iOSTopFaceSDKSample/images/feature.jpg)
+![](https://github.com/topplus/iOSTopFaceSDKSample/raw/master/images/feature.jpg)
 ##开源协议
-[LICENSE](https://github.com/topplus/LICENSE/LICENSE)
+[LICENSE](https://github.com/topplus/iOSTopFaceSDKSample/raw/master/LICENSE)
 ##开发者微信群
-![](https://github.com/topplus/iOSTopFaceSDKSample/images/voomeGroup.png)
+![](https://github.com/topplus/iOSTopFaceSDKSample/raw/master/images/voomeGroup.png)
 ##联系我们
 <br>
 商务合作sales@topplusvision.com
