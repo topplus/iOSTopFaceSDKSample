@@ -14,7 +14,8 @@ Xcode7.0及以上版本
 ##接入流程
 ###依赖库导入
 <br>
-人脸标注模块，所依赖的库文件为: iOSTopFaceSDK.framework，需添加到iOS项目中。
+人脸标注模块，所依赖的库文件为: iOSTopFaceSDK.framework，需添加到iOS项目中；
+在Build Phases->Copy Bundle Resource将iOSTopFaceSDK.framework中的resource.bundle文件添加至工程中。
 <br>
 ###授权认证
 <br>
@@ -40,11 +41,11 @@ Xcode7.0及以上版本
 ```
 <br>
 ##68个人脸特征点二维像素坐标图
-![](https://github.com/topplus/AndroidTopFaceSDKSample/raw/master/images/feature.jpg)
+![](https://github.com/topplus/iOSTopFaceSDKSample/images/feature.jpg)
 ##开源协议
-[LICENSE](https://github.com/topplus/AndroidTopFaceSDKSample/raw/master/LICENSE)
+[LICENSE](https://github.com/topplus/LICENSE/LICENSE)
 ##开发者微信群
-![](https://github.com/topplus/AndroidTopFaceSDKSample/raw/master/images/voomeGroup.png)
+![](https://github.com/topplus/iOSTopFaceSDKSample/images/voomeGroup.png)
 ##联系我们
 <br>
 商务合作sales@topplusvision.com
