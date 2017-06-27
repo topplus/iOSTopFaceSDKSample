@@ -3,21 +3,21 @@ TopFaceSDK iOS版本 示例工程
 <br>
 [官网](http://www.voome.cn)
 <br>
-##开发环境说明
+##开发环境说明##
 <br>
 Xcode7.0及以上版本
 <br>
-##支持平台说明
+##支持平台说明##
 <br>
 支持iOS7.0及以上系统
 <br>
-##接入流程
-###依赖库导入
+##接入流程##
+###依赖库导入###
 <br>
 人脸标注模块，所依赖的库文件为: iOSTopFaceSDK.framework，需添加到iOS项目中；
 在Build Phases->Copy Bundle Resource将iOSTopFaceSDK.framework中的resource.bundle文件添加至工程中。
 <br>
-###授权认证
+###授权认证###
 <br>
 调用TopFaceSDKHandle的setLicense:(NSString *)Client_id andSecret:(NSString *)Clicent_secret;
 说明：申请 client_id 和 client_secret 后调用此函数获得授权。不调用认证函数无法使用人脸检测功能，正确调用认证函数即可正常使用。
@@ -25,7 +25,7 @@ Xcode7.0及以上版本
 <br>
 [获取License](http://www.voome.cn/register/index.shtml)
 <br>
-###SDK初始化
+###SDK初始化###
 <br>
 在检测之前调用调用TopFaceSDKHandle的Engine_InitWithFocus:(float)focus_length初始化检测上下文
 <br>
@@ -40,13 +40,13 @@ Xcode7.0及以上版本
 
 ```
 <br>
-##68个人脸特征点二维像素坐标图
+##68个人脸特征点二维像素坐标图##
 ![](https://github.com/topplus/iOSTopFaceSDKSample/raw/master/images/feature.jpg)
-##开源协议
+##开源协议##
 [LICENSE](https://github.com/topplus/iOSTopFaceSDKSample/raw/master/LICENSE)
-##开发者微信群
+##开发者微信群##
 ![](https://github.com/topplus/iOSTopFaceSDKSample/raw/master/images/voomeGroup.png)
-##联系我们
+##联系我们##
 <br>
 商务合作sales@topplusvision.com
 <br>
